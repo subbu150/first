@@ -1,0 +1,44 @@
+#second {
+    text-align: center;
+   
+    height:35%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#footer{
+background-color: black;
+color:white;
+padding:50px;
+}
+ul li a{
+margin-bottom:2px;
+text-decoration:none ;
+color:white;
+}
+
+#navkeys  .container ul li{
+    display: inline-block;  
+    padding: 15px;
+    
+    
+ }
+ #navkeys .container ul li a{
+    color: black;
+
+ }
+navbar .logo{
+   
+ float: inline-start;
+}
+a:hover{
+    border-bottom:2px solid gold;
+}
+navbar{
+    margin-bottom:0px;
+}
+#div{
+    background-color: black;
+}
+
